@@ -1,4 +1,4 @@
-# Google-Recaptcha-V2-PHP
+# Google-Recaptcha-V2-PHP [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farunkumartdr%2FGoogle-Recaptcha-V2-PHP&count_bg=%2331349A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 Google Recaptcha V2 Verification with api in PHP
 <p>
 1.Create account here :  <a href="https://www.google.com/recaptcha/admin">Create Account</a>  <br>
